@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://github.com/Mohamed-do37">
-  <img src="https://raw.githubusercontent.com/Mohamed-do37/my-portfolio/main/profile-assets/ai-data-profile-banner.svg" alt="Animated AI and Data Intelligence — neural network, data streams and analytics visualization" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Mohamed-do37/my-portfolio/main/profile-assets/ai-data-profile-banner.svg?v=2" alt="Cinematic animated AI core with rotating holographic rings, pulsing light waves, orbital particles and a data analytics HUD" width="100%"/>
 </a>
 
 <br/>
