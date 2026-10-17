@@ -5,17 +5,16 @@
 
 <div align="center">
 
-<a href="https://github.com/Mohamed-do37">
-  <img src="https://raw.githubusercontent.com/Mohamed-do37/my-portfolio/main/profile-assets/ai-data-profile-banner.svg?v=3" alt="Large immersive animated AI core with rotating holographic rings, expanding energy pulses, moving neural particles and futuristic data analytics HUD" width="100%"/>
-</a>
+<img src="https://raw.githubusercontent.com/Mohamed-do37/my-portfolio/main/profile-assets/ai-data-profile-banner.svg?v=4" alt="Large animated holographic AI core with rotating cyan rings, energy pulses, neural particles, and futuristic data analytics" width="100%"/>
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=750&color=67E8F9&center=true&vCenter=true&width=760&height=45&lines=AI+%C3%97+DATA+INTELLIGENCE;Turning+raw+data+into+meaningful+insights;Exploring+Machine+Learning+%7C+NLP+%7C+Computer+Vision;Analyze.+Discover.+Build." alt="Animated AI and data engineering tagline"/>
 
-<p>
-  <a href="https://github.com/Mohamed-do37?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore projects"/></a>
-  <a href="https://github.com/Mohamed-do37/my-portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-0B1220?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" alt="Visit portfolio"/></a>
+<p align="center">
+  <a href="https://github.com/Mohamed-do37?tab=repositories"><img src="https://img.shields.io/badge/◈%20EXPLORE%20PROJECTS-071426?style=for-the-badge&logo=github&logoColor=67E8F9&labelColor=0B3B5A" alt="Open all GitHub projects"/></a>
+  &nbsp;
+  <a href="https://github.com/Mohamed-do37/my-portfolio"><img src="https://img.shields.io/badge/⌘%20PORTFOLIO%20SOURCE-071426?style=for-the-badge&logo=googlechrome&logoColor=67E8F9&labelColor=0B3B5A" alt="Open portfolio website source repository"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Mohamed-do37&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -122,9 +121,9 @@ I build practical projects at the intersection of **data analytics, machine lear
 
 ### BUILD · ANALYZE · LEARN · REPEAT
 
-<a href="https://github.com/Mohamed-do37">GitHub</a> &nbsp; ◈ &nbsp;
-<a href="https://github.com/Mohamed-do37/my-portfolio">Portfolio</a> &nbsp; ◈ &nbsp;
-<a href="https://linkedin.com/in/mohameddogheim">LinkedIn</a>
+<a href="https://github.com/Mohamed-do37?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20PROJECTS-071426?style=for-the-badge&logo=github&logoColor=67E8F9" alt="View projects"/></a>
+&nbsp;
+<a href="https://github.com/Mohamed-do37/my-portfolio"><img src="https://img.shields.io/badge/PORTFOLIO%20REPOSITORY-071426?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Portfolio repository"/></a>
 
 <br/>
 
