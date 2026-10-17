@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mohamed-do37/my-portfolio/main/profile-assets/ai-data-profile-banner.svg?v=4" alt="Large animated holographic AI core with rotating cyan rings, energy pulses, neural particles, and futuristic data analytics" width="100%"/>
+<img src="https://raw.githubusercontent.com/Mohamed-do37/my-portfolio/main/profile-assets/ai-data-profile-banner.svg?v=5" alt="Large animated holographic AI core with rotating cyan rings, energy pulses, neural particles, and futuristic data analytics" width="100%"/>
 
 <br/>
 
