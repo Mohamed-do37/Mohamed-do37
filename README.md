@@ -17,7 +17,7 @@
   <a href="https://github.com/Mohamed-do37/my-portfolio"><img src="https://img.shields.io/badge/⌘%20PORTFOLIO%20SOURCE-071426?style=for-the-badge&logo=googlechrome&logoColor=67E8F9&labelColor=0B3B5A" alt="Open portfolio website source repository"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Mohamed-do37&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Mohamed-do37&style=for-the-badge&color=0B3B5A&label=PROFILE%20VIEWS" alt="Profile views counter" height="30"/>
 
 </div>
 
