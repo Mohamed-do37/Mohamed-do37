@@ -1,58 +1,133 @@
-<!-- Animated profile README for Mohamed-do37 -->
+<!--
+  Mohamed Dogheim | AI x Data Intelligence
+  GitHub Profile README
+-->
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mohamed-do37/my-portfolio/main/profile-assets/ai-data-profile-banner.svg" alt="Animated AI and Data Intelligence banner" width="100%"/>
+<a href="https://github.com/Mohamed-do37">
+  <img src="https://raw.githubusercontent.com/Mohamed-do37/my-portfolio/main/profile-assets/ai-data-profile-banner.svg" alt="Animated AI and Data Intelligence — neural network, data streams and analytics visualization" width="100%"/>
+</a>
 
-# Mohamed Dogheim
+<br/>
 
-### AI · Data Analytics · Machine Learning
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=750&color=67E8F9&center=true&vCenter=true&width=760&height=45&lines=AI+%C3%97+DATA+INTELLIGENCE;Turning+raw+data+into+meaningful+insights;Exploring+Machine+Learning+%7C+NLP+%7C+Computer+Vision;Analyze.+Discover.+Build." alt="Animated AI and data engineering tagline"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+insights;Exploring+Machine+Learning+solutions;Building+practical+AI+and+analytics+projects" alt="Animated tagline"/>
+<p>
+  <a href="https://github.com/Mohamed-do37?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore projects"/></a>
+  <a href="https://github.com/Mohamed-do37/my-portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-0B1220?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" alt="Visit portfolio"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Mohamed-do37&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## About
+## ◈ SYSTEM PROFILE
 
-I build practical projects across data analytics, machine learning, and AI. My work focuses on understanding datasets, investigating patterns, evaluating models, and communicating useful findings.
+I build practical projects at the intersection of **data analytics, machine learning, and AI**. I enjoy exploring datasets, uncovering patterns, testing predictive approaches, and translating technical work into useful insights.
 
-## Focus Areas
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⌁ DATA ANALYTICS</h3>
+      Data preparation · Exploratory analysis · Visualization · Business questions
+    </td>
+    <td width="50%" valign="top">
+      <h3>⌘ MACHINE LEARNING</h3>
+      Classification · Regression · Feature preparation · Model evaluation
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✳ ARTIFICIAL INTELLIGENCE</h3>
+      NLP experiments · Transformers · Computer vision · Deep learning projects
+    </td>
+    <td width="50%" valign="top">
+      <h3>▤ DATA TOOLS</h3>
+      Python · SQL · Power BI · Reproducible analytical workflows
+    </td>
+  </tr>
+</table>
 
-- **Data Analytics:** data preparation, exploratory analysis, visualization, and business questions
-- **Machine Learning:** classification, regression, feature preparation, and model evaluation
-- **AI Projects:** natural language processing and computer vision through project-based development
-- **Data Tools:** Python, SQL, and Power BI across analytical workflows
+## ◈ FEATURED PROJECTS
 
-## Selected Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✦ <a href="https://github.com/Mohamed-do37/Lumora_sentiment_analysis-">Lumora</a></h3>
+      Customer review analytics and NLP / sentiment-classification workflows.
+      <br/><br/>
+      <sub>PYTHON · NLP · TRANSFORMERS · ANALYTICS</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⌁ <a href="https://github.com/Mohamed-do37/Logistics-Supply-Chain-Analytics">Logistics Intelligence</a></h3>
+      Supply-chain analysis, shipment-delay investigation, and predictive modeling.
+      <br/><br/>
+      <sub>SQL · PYTHON · EDA · MACHINE LEARNING</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◉ <a href="https://github.com/Mohamed-do37/Diabetic-Retinopathy-Classification">Retinal Image Classification</a></h3>
+      Deep learning for diabetic-retinopathy image classification; a research project, not a standalone diagnostic tool.
+      <br/><br/>
+      <sub>PYTORCH · COMPUTER VISION · DEEP LEARNING</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>▥ <a href="https://github.com/Mohamed-do37/Body-Performance-Analytics-ML">Body Performance Analytics ML</a></h3>
+      Structured-data exploration with classification and regression experiments.
+      <br/><br/>
+      <sub>SCIKIT-LEARN · FEATURE ENGINEERING · EVALUATION</sub>
+    </td>
+  </tr>
+</table>
 
-| Project | Focus |
-|---|---|
-| [Lumora — Customer Review Analytics](https://github.com/Mohamed-do37/Lumora_sentiment_analysis-) | Customer-review analysis and NLP / sentiment-classification workflows |
-| [Logistics Supply Chain Analytics](https://github.com/Mohamed-do37/Logistics-Supply-Chain-Analytics) | Logistics operations, shipment-delay analysis, and predictive modeling |
-| [Diabetic Retinopathy Classification](https://github.com/Mohamed-do37/Diabetic-Retinopathy-Classification) | Deep learning for retinal-image classification; a research project, not a standalone diagnostic tool |
-| [Body Performance Analytics ML](https://github.com/Mohamed-do37/Body-Performance-Analytics-ML) | Structured-data analysis with classification and regression experiments |
+## ◈ TECH STACK
 
-## Tools Used in My Projects
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=38BDF8" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=38BDF8" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/scikit--learn-0B1220?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/PyTorch-0B1220?style=for-the-badge&logo=pytorch&logoColor=38BDF8" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/SQL_Server-0B1220?style=for-the-badge&logo=microsoftsqlserver&logoColor=38BDF8" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Power_BI-0B1220?style=for-the-badge&logo=powerbi&logoColor=38BDF8" alt="Power BI"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,pandas,numpy,sql,mysql,git,github,vscode&theme=dark" alt="Technology icons" width="90%"/>
 
-## Explore More
+<br/><br/>
 
-- [Personal portfolio website source](https://github.com/Mohamed-do37/my-portfolio)
-- [All repositories](https://github.com/Mohamed-do37?tab=repositories)
-- [LinkedIn](https://linkedin.com/in/mohameddogheim)
+<img src="https://img.shields.io/badge/Power%20BI-0B1220?style=for-the-badge&logo=powerbi&logoColor=67E8F9" alt="Power BI"/>
+<img src="https://img.shields.io/badge/SQL%20Server-0B1220?style=for-the-badge&logo=microsoftsqlserver&logoColor=67E8F9" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=67E8F9" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=67E8F9" alt="NumPy"/>
+
+</div>
+
+## ◈ GITHUB TELEMETRY
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohamed-do37&show_icons=true&hide_border=true&bg_color=071426&title_color=67E8F9&icon_color=38BDF8&text_color=D7E8F5&ring_color=38BDF8" alt="GitHub profile statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-do37&layout=compact&hide_border=true&bg_color=071426&title_color=67E8F9&text_color=D7E8F5" alt="Most used languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohamed-do37&hide_border=true&background=071426&ring=38BDF8&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=D7E8F5&currStreakNum=D7E8F5&sideNums=D7E8F5&dates=8CAFC8" alt="GitHub contribution streak"/>
+</div>
+
+## ◈ ACTIVITY STREAM
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-do37&bg_color=071426&color=D7E8F5&line=38BDF8&point=67E8F9&area=true&area_color=0B3B5A&hide_border=true" alt="GitHub contribution activity graph" width="100%"/>
+</div>
 
 ---
 
 <div align="center">
-  <sub>Learning by building · Data to insight · AI with purpose</sub>
+
+### BUILD · ANALYZE · LEARN · REPEAT
+
+<a href="https://github.com/Mohamed-do37">GitHub</a> &nbsp; ◈ &nbsp;
+<a href="https://github.com/Mohamed-do37/my-portfolio">Portfolio</a> &nbsp; ◈ &nbsp;
+<a href="https://linkedin.com/in/mohameddogheim">LinkedIn</a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,50:0B3B5A,100:0891B2&height=120&section=footer" width="100%" alt="Animated-style dark blue wave footer"/>
+
 </div>
